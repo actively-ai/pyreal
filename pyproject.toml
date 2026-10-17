@@ -65,7 +65,7 @@ pytest-mock = "^3.12.0"
 # Style Dependencies
 flake8 = ">=7.1.1,<8.0.0"
 isort = "^5.11.4"
-black = "^23.1.0"
+black = "^24.3.0"
 
 # Documentation Dependencies
 PyYaml = ">=6.0"
@@ -78,7 +78,7 @@ pydata-sphinx-theme = ">=0.10.1"
 
 # Tutorial dependencies
 [tool.poetry.group.tutorial.dependencies]
-lightgbm = "4.1.0"
+lightgbm = "4.6.0"
 
 
 [tool.black]
